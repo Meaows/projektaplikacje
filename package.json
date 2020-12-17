@@ -1,0 +1,24 @@
+{
+  "name": "projektaplikacje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serwer.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serwer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meaows/projektaplikacje.git"
+  },
+  "author": "Michal Cembrowski 3ib1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meaows/projektaplikacje/issues"
+  },
+  "homepage": "https://github.com/Meaows/projektaplikacje#readme"
+}
